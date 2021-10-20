@@ -1,0 +1,27 @@
+body{
+text-align: center;
+ background: linear-gradient(#093979 0%,#00d4FF 100%);
+}
+}
+.links{
+    float: right;
+    color: yellow;
+    font-family:monospace;
+    font-size::20px;
+    padding-top:5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-bottom: 5px;
+}
+.links:hover {
+background-color: purple
+}
+.menu{
+    list-style: none;
+    font-family: sans-serif;
+    position:;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    z-index: 10;
+}
